@@ -1,2 +1,3 @@
 # Perl
-a social media app using react native
+a online food ordering app using react native
+author: Prakash Waddar
